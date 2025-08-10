@@ -9,7 +9,9 @@ Getting Started
 Settings
 
 <img width="1080" height="2185" alt="image" src="https://github.com/user-attachments/assets/779057af-eda9-4270-b88e-bb08a7df4309" />
-![edit_profile](https://github.com/user-attachments/assets/c9ac0658-0239-40fa-a7e1-b9521e259f75)
+<img width="375" height="750" alt="image" src="https://github.com/user-attachments/assets/3c623129-140a-4ecc-9d0c-dad68cdc23be" />
+
+
 
 
 
